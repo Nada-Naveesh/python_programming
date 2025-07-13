@@ -1,0 +1,3 @@
+name1=input()
+age=input()
+print(name1 +" is " + age +" years old")
