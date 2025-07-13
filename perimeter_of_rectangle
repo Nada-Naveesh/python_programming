@@ -1,0 +1,7 @@
+a=int(input())
+b=int(input())
+result=2*(a+b)
+print(result)
+
+#Formulae
+perimeter of rectangle = 2(len of rec + breadth of rec)
