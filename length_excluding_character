@@ -1,0 +1,4 @@
+name=input()
+len_=len(name)
+lew=len_-2
+print(lew)
