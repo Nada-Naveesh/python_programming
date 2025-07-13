@@ -1,0 +1,2 @@
+name=input()
+print("* "*3+name+" *"*3)
