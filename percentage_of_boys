@@ -1,0 +1,6 @@
+a=int(input())
+result=100-a
+print(result)
+
+# question
+write a program that reads the girls percentage in a class and prints the boys percentage in the class
