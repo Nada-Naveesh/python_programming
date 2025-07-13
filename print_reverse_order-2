@@ -1,0 +1,5 @@
+name=input()
+name1=input()
+print(name1)
+print("###")
+print(name)
