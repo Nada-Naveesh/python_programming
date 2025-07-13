@@ -1,0 +1,4 @@
+name=input()
+result=len(name)
+res=result/2
+print(res)
