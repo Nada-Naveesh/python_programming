@@ -1,0 +1,3 @@
+name=input()
+len1=len(name)-2
+print(name[0]+len1 * "*" +name[-1])
