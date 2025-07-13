@@ -1,0 +1,5 @@
+name=input()
+len_=len(name)
+len_q=len_-1
+bh=name[len_q]
+print(bh)
