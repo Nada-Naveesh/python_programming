@@ -1,0 +1,6 @@
+a=int(input())
+result=(a/100)*200
+print(result)
+
+#Formulae
+part/whole*number(100 or 200)
