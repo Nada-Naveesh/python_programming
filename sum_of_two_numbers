@@ -1,0 +1,6 @@
+num=input()
+num1=input()
+a=int(num)
+b=int(num1)
+result=a+b
+print(result)
