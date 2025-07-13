@@ -1,0 +1,3 @@
+name=input()
+len_=len(name)-1
+print(len_)
