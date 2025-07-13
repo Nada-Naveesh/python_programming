@@ -1,0 +1,6 @@
+a=float(input())
+result=int(a*1000)
+print(result)
+
+
+# 1kilometer=1000meters
