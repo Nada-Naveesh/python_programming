@@ -1,0 +1,6 @@
+name=input()
+name1=input()
+res=name[:3]
+rest=name1[:3]
+result=res == rest
+print(result)
