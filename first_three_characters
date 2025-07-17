@@ -1,0 +1,12 @@
+name=input()
+first=name[0]
+second=name[1]
+third=name[2]
+print(first+second+third)
+
+     or 
+
+
+     name=input()
+first=name[:3]
+print(first)
