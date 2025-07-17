@@ -1,0 +1,12 @@
+num=input()
+
+first_digit=num[0]
+first_digit=int(first_digit)
+
+second_digit=num[1]
+second_digit=int(second_digit)
+
+nu=first_digit+second_digit
+result=nu > 7
+
+print(result)
