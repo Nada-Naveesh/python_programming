@@ -1,0 +1,7 @@
+name=input()
+name1=input()
+result=name==name1
+print(result) 
+
+
+== this defines is equal to  it checks the condition its its equal or not
