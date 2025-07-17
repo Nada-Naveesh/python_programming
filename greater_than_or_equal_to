@@ -1,0 +1,7 @@
+A=input()
+A=float(A)
+B=input()
+B=float(B)
+result=(A >= B)
+result=str(result)
+print("A >= B is "+ result) 
