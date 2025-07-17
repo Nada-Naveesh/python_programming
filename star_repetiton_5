@@ -1,0 +1,5 @@
+w1=input()
+w2=input()
+stars="*"*len(w2)
+result=stars+w1[len(w2):]
+print(result)
