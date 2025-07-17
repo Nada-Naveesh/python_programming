@@ -1,0 +1,5 @@
+name=input()
+res=name[0]
+rest=name[len(name)-1]
+result=res != rest
+print(result)
