@@ -1,0 +1,6 @@
+s1=input()
+s2=input()
+leng=len(s2)
+index=s1[:leng]
+result= index == s2
+print(result)
