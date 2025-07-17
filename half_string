@@ -1,0 +1,6 @@
+name=input()
+length=len(name)
+leng=length/2
+leng=int(leng)
+result=name[leng:]
+print(result)
