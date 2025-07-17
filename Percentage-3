@@ -1,0 +1,5 @@
+nump=int(input())
+numn=int(input())
+result=(nump/100) * 500
+res= result == numn
+print(res)
