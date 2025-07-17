@@ -1,0 +1,6 @@
+s=input()
+n=int(input())
+first_part=s[:n]
+last_part=s[-n:]
+result= first_part != last_part
+print(result)
