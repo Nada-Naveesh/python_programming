@@ -1,0 +1,6 @@
+name=input()
+name1=input()
+index=name[-3]
+indx=name1[-3]
+result=index == indx 
+print(result)
