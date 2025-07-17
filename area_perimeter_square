@@ -1,0 +1,9 @@
+num=int(input())
+area=num*num
+print("Area of the square is:",area)
+perimeter=4*num
+print("Perimeter of the square is:",perimeter)
+
+
+area of square is (side * side)
+perimeter of a square is (4*side)
