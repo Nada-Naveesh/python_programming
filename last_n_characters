@@ -1,0 +1,6 @@
+name=input()
+num=int(input())
+word_length=len(name)
+res=word_length-num
+result=name[res:]
+print(result)
