@@ -1,0 +1,4 @@
+name=input()
+name=int(name)
+result=name==7
+print(result)
