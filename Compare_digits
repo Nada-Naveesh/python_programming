@@ -1,0 +1,6 @@
+numb=int(input())
+result=numb > 25
+print(result)
+numb=str(numb)
+res=numb[0] > numb[1]
+print(res)
