@@ -1,0 +1,5 @@
+name=input()
+num=int(input())
+name1=input()
+result=name[:num]+name1+name[num+1:]
+print(result)
