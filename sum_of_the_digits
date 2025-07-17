@@ -1,0 +1,5 @@
+word=input()
+first=int(word[0])
+second=int(word[1])
+third=int(word[2])
+print(first+second+third)
