@@ -1,0 +1,5 @@
+num=int(input())
+num1=int(input())
+result=num1-num
+part= result == 1
+print(part)
