@@ -1,0 +1,6 @@
+num=int(input())
+x= (100-70)
+y=x+40
+n=x,y
+result=(y/100)*num
+print(result)
