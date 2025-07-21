@@ -1,0 +1,4 @@
+n1=int(input())
+n2=int(input())
+chk= not((n1 < 0) or (n2 < 0))
+print(chk)
