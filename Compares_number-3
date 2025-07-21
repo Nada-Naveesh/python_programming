@@ -1,0 +1,10 @@
+num1=int(input())
+num2=int(input())
+n1=num1 >= 0
+n2=num2 >=0
+nn1=num1 < 70
+nn2=num2 < 70
+result=n1 == n2
+res=nn1 == nn2
+results=result or res  
+print(results)
