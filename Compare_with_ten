@@ -1,0 +1,9 @@
+num1=int(input())
+num2=int(input())
+sums=num1+num2 < 10
+difference=num1 - num2 < 10
+rangee= num1 > 5 
+rangeee=num1 < 30
+resul=rangee == rangeee
+result= sums or difference or resul
+print(result)
