@@ -1,0 +1,7 @@
+m=int(input())
+p=int(input())
+c=int(input())
+chk=m+p >= 100 or p+c >= 100 or m+c >= 100
+chkk=m+p+c >= 180
+result= chk and chkk
+print(result)
