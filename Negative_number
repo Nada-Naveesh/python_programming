@@ -1,0 +1,6 @@
+num=int(input())
+num1=int(input())
+res= num < 0
+rest=num1 < 0
+result= res and rest 
+print(result)
