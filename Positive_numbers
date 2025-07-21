@@ -1,0 +1,6 @@
+num1=int(input())
+num2=int(input())
+n1=num1 > 0
+n2=num2 > 0 
+result=n1 or n2
+print(result)
