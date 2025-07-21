@@ -1,0 +1,8 @@
+n1=input()
+n2=input()
+n3=input()
+nn1=n1 == "woman"
+nn2=n2 == "woman"
+nn3=n3 == "woman"
+result= nn1 or nn2 or nn3
+print(result)
