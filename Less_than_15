@@ -1,0 +1,5 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+chk= (n1 < 15) or (n2 < 15) or (n3 < 15)
+print(chk)
