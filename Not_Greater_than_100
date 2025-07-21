@@ -1,0 +1,6 @@
+num1=int(input())
+num2=int(input())
+res=num1+num2
+result=res > 100
+results=not(result)
+print(results)
