@@ -1,0 +1,4 @@
+num1=int(input())
+num2=int(input())
+che=not (num1 < 15 and num2 < 15)
+print(che)
