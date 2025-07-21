@@ -1,0 +1,8 @@
+num1=int(input())
+num2=int(input())
+n1=num1 > 35
+n2=num2 > 35
+res=n1 and n2
+n1n2=num1 > num2
+result=n1n2 or res
+print(result)
