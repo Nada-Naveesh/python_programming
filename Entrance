@@ -1,0 +1,8 @@
+n1=int(input())
+s=input()
+age=n1 > 12
+agi=n1 < 60
+agei=age and agi
+y=s == "yes"
+result= agei or y
+print(result)
