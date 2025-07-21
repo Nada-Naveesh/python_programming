@@ -1,0 +1,5 @@
+num1=int(input())
+res=num1 > 25 
+rest=num1 < 75
+result=res and rest
+print(result)
