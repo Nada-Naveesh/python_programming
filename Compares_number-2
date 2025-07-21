@@ -1,0 +1,8 @@
+n1=int(input())
+n2=int(input())
+ch=n1 < 0
+che=n2 < 0 
+res=ch or che 
+sm= n1+n2 > 7
+result=res and sm 
+print(result)
