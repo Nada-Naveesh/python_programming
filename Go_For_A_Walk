@@ -1,0 +1,6 @@
+temp=int(input())
+btw=temp > 15 and temp < 40 
+if btw:
+    print("Can go for a walk")
+else:
+    print("Cannot go for a walk")
