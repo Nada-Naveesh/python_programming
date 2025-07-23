@@ -1,0 +1,6 @@
+n=input()
+first=n[0]
+first=int(first)
+n=int(n)
+chk=n > 50 and n < 100 or first == 7
+print(chk)
