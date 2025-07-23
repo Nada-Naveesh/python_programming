@@ -1,0 +1,6 @@
+n1=int(input())
+n2=int(input())
+chk=(n1 < 20) or (n2 < 20)
+chkk= (n1 > 30) or (n2 > 30)
+result=chk and chkk
+print(result)
