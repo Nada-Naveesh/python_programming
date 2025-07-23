@@ -1,0 +1,7 @@
+s=input()
+c=int(input())
+chk=s == "large" or c >= 300
+if chk:
+    print("Buy a Book")
+else:
+    print("Do Not Buy a Book")
