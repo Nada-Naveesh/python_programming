@@ -1,0 +1,6 @@
+n1=int(input())
+n2=int(input())
+chk=n1+n2 < 0
+chkk=n1*n2 < 0 
+result=chk or chkk
+print(result)
