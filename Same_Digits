@@ -1,0 +1,9 @@
+n1=input()
+first=n1[0]
+second=n1[1]
+third=n1[2]
+first=int(first)
+second=int(second)
+third=int(third)
+result=first == second and first == third and second == third
+print(result)
