@@ -1,0 +1,15 @@
+n1=input()
+first=n1[0]
+second=n1[1]
+third=n1[2]
+first=int(first)
+second=int(second)
+third=int(third)
+chk=first != 5 or second != 5 or third != 5
+n1=int(n1)
+chkk=n1 > 300 and n1 < 700
+res=chk and chkk
+if res:
+    print("Valid Number")
+else:
+    print("Not a Valid Number")
