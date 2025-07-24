@@ -1,0 +1,9 @@
+a=input()
+b=input()
+first=a[:3]
+second=b[:3]
+chk=first == "DIS" or second == "DIS"
+if chk:
+    print("Discount")
+else:
+    print("No Discount")
