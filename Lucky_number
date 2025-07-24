@@ -1,0 +1,10 @@
+n1=int(input())
+n2=int(input())
+chk=n1 == 6 or n2 == 6
+chkk=n1+n2 == 6
+chhk=n1-n2 == 6 or n2-n1 == 6
+res=chk or chkk or chhk
+if res:
+    print("Lucky")
+else:
+    print("Not Lucky")
