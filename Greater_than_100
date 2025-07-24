@@ -1,0 +1,8 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+chk=n1 > 100 and n2 > 100 and n3 > 100
+if chk:
+    print("All are greater than 100")
+else:
+    print("Not all are greater than 100")
