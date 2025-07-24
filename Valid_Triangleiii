@@ -1,0 +1,8 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+res=n1+n2+n3 == 180
+if res:
+    print("It's a Triangle")
+else:
+    print("It's not a Triangle")
