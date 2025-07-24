@@ -1,0 +1,9 @@
+m=int(input())
+p=int(input())
+chk=m > 35 and p > 35
+chkk=m+p >= 100
+result=chk or chkk
+if result:
+    print("Qualified")
+else:
+    print("Not Qualified")
