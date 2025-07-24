@@ -1,0 +1,8 @@
+n1=int(input())
+n2=int(input())
+n3=int(input())
+res=n1-n2 < 25 and n2-n3 < 25 and n3-n1 < 25
+if res:
+    print("Difference is less than 25")
+else:
+    print("Difference is not less than 25")
