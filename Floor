@@ -1,0 +1,7 @@
+n1=input()
+n1=n1[1:]
+n1=int(n1)
+if n1 < 30:
+    print("Ground Floor")
+else:
+    print("Not Ground Floor")
