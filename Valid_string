@@ -1,0 +1,8 @@
+s=input()
+chk=len(s) > 2 and len(s) < 7
+chkk=s[0] != "a"
+res=chk or chkk
+if res:
+    print("Valid String")
+else:
+    print("Not a Valid String")
